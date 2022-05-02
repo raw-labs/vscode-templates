@@ -1,0 +1,7 @@
+//
+// Hello world Example
+//
+// Returns a simple string.
+hello_world() := {
+    "Hello World!"
+};
